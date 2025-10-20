@@ -1,0 +1,16 @@
+.simple-block-gallery-block-parent-title {
+  color: '#000';
+  font-style: bold;
+  text-align: center;
+}
+.simple-block-gallery-block-parent-description {
+  position: 'absolute';
+  top: '50%';
+  left: '50%';
+  transform: 'translate(-50%, -50%)';
+  color: '#999';
+  font-style: italic;
+  pointer-events: none;
+  user-select: none;
+  text-align: center;
+}

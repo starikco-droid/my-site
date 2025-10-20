@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[KLINKERIT палітра HUE]]></name>
+		<type><![CDATA[variable]]></type>
+		<sku><![CDATA[KL-HUE1...HUE6]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<attributepa_color><![CDATA[]]></attributepa_color>
+		<attributepa_series><![CDATA[]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[]]></_woodmart_swatch_color>
+		<managestock><![CDATA[]]></managestock>
+		<stockquantity><![CDATA[]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[]]></regularprice>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<name><![CDATA[KLINKERIT SAHARA]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[KL-SAHARA]]></sku>
+		<parentsku><![CDATA[KL-HUE1...HUE6]]></parentsku>
+		<attributepa_color><![CDATA[sahara]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2023/10/sahara_01.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#f0d6bb]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[SAHARA]]></category>
+	</node>
+	<node>
+		<name><![CDATA[KLINKERIT TEXAS]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[KL-TEXAS]]></sku>
+		<parentsku><![CDATA[KL-HUE1...HUE6]]></parentsku>
+		<attributepa_color><![CDATA[texas]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2023/10/texas_02.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#ec8467]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[TEXAS]]></category>
+	</node>
+	<node>
+		<name><![CDATA[KLINKERIT COLORADO]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[KL-COLORADO]]></sku>
+		<parentsku><![CDATA[KL-HUE1...HUE6]]></parentsku>
+		<attributepa_color><![CDATA[colorado]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2023/10/colorado_03.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#ec8467]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[COLORADO]]></category>
+	</node>
+	<node>
+		<name><![CDATA[KLINKERIT CLASSIC]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[KL-CLASSIC]]></sku>
+		<parentsku><![CDATA[KL-HUE1...HUE6]]></parentsku>
+		<attributepa_color><![CDATA[classic]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2023/10/classic_04.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#562b25]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[CLASSIC]]></category>
+	</node>
+	<node>
+		<name><![CDATA[KLINKERIT GRAFIT]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[KL-GRAFIT]]></sku>
+		<parentsku><![CDATA[KL-HUE1...HUE6]]></parentsku>
+		<attributepa_color><![CDATA[grafit]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2023/10/grafit_05-1.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#333534]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[GRAFIT]]></category>
+	</node>
+	<node>
+		<name><![CDATA[KLINKERIT MAROKO]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[KL-MAROKO]]></sku>
+		<parentsku><![CDATA[KL-HUE1...HUE6]]></parentsku>
+		<attributepa_color><![CDATA[maroko]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2023/10/maroko_06.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#d68b0a]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[MAROKO]]></category>
+	</node>
+</data>

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "simple-block-gallery/sbg-parent-block",
+  "title": "Simple Block Gallery",
+  "category": "media",
+  "icon": "images-alt2",
+  "description": "Generate a Masonry or Slider gallery.",
+  "keywords": [
+    "gallery",
+    "masonry",
+    "slider"
+  ],
+  "version": "1.2.9",
+  "textdomain": "simple-block-gallery",
+  "attributes": {
+    "preview": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "supports": {
+    "customClassName": false,
+    "className": false,
+    "html": false
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[TABULO_Декоративні_ламелі]]></name>
+		<type><![CDATA[variable]]></type>
+		<sku><![CDATA[TABULO-LAMELI]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<attributepa_color><![CDATA[]]></attributepa_color>
+		<attributepa_series><![CDATA[]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[]]></_woodmart_swatch_color>
+		<managestock><![CDATA[]]></managestock>
+		<stockquantity><![CDATA[]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[]]></regularprice>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE НАТУРАЛЬНИЙ-ДУБ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-НАТУРАЛЬНИЙ-ДУБ]]></sku>
+		<parentsku><![CDATA[TABULO-LAMELI]]></parentsku>
+		<attributepa_color><![CDATA[натуральний-дуб]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2024/06/lamel-naturalnij-dub.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[Натуральний дуб]]></category>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE ЗОЛОТИЙ-ДУБ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ЗОЛОТИЙ-ДУБ]]></sku>
+		<parentsku><![CDATA[TABULO-LAMELI]]></parentsku>
+		<attributepa_color><![CDATA[золотий-дуб]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2024/06/lamel-zolotij-dub-1.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[Золотий дуб]]></category>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE ВІНЧЕСТЕР]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ВІНЧЕСТЕР]]></sku>
+		<parentsku><![CDATA[TABULO-LAMELI]]></parentsku>
+		<attributepa_color><![CDATA[вінчестер]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2024/06/lamel-vinchester-1.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[Вінчестер]]></category>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE ТЕМНИЙ-ГОРІХ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ТЕМНИЙ-ГОРІХ]]></sku>
+		<parentsku><![CDATA[TABULO-LAMELI]]></parentsku>
+		<attributepa_color><![CDATA[темний-горіх]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2024/06/lamel-temnij-gorih-1.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[Темний горіх]]></category>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE ВЕНГЕ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ВЕНГЕ]]></sku>
+		<parentsku><![CDATA[TABULO-LAMELI]]></parentsku>
+		<attributepa_color><![CDATA[венге]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2024/06/lamel-venge.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[Венге]]></category>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE ГРАФІТ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ГРАФІТ]]></sku>
+		<parentsku><![CDATA[TABULO-LAMELI]]></parentsku>
+		<attributepa_color><![CDATA[графіт]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2024/06/lamel-grafit.jpg]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[Графіт]]></category>
+	</node>
+</data>

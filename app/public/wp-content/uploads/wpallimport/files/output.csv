@@ -1,0 +1,8 @@
+Name,Type,SKU,Parent SKU,Attribute:pa_color,Attribute:pa_series,Images,_woodmart_swatch_color,Manage stock,Stock quantity,Stock status,Regular price,Category
+KLINKERIT палітра HUE,variable,KL-HUE1...HUE6,,,,,,,,instock,,
+KLINKERIT SAHARA,variation,KL-SAHARA,KL-HUE1...HUE6,sahara,Other,https://kosbud.ua/wp-content/uploads/2023/10/sahara_01.jpg,#f0d6bb,yes,10,instock,0,SAHARA
+KLINKERIT TEXAS,variation,KL-TEXAS,KL-HUE1...HUE6,texas,Other,https://kosbud.ua/wp-content/uploads/2023/10/texas_02.jpg,#ec8467,yes,10,instock,0,TEXAS
+KLINKERIT COLORADO,variation,KL-COLORADO,KL-HUE1...HUE6,colorado,Other,https://kosbud.ua/wp-content/uploads/2023/10/colorado_03.jpg,#ec8467,yes,10,instock,0,COLORADO
+KLINKERIT CLASSIC,variation,KL-CLASSIC,KL-HUE1...HUE6,classic,Other,https://kosbud.ua/wp-content/uploads/2023/10/classic_04.jpg,#562b25,yes,10,instock,0,CLASSIC
+KLINKERIT GRAFIT,variation,KL-GRAFIT,KL-HUE1...HUE6,grafit,Other,https://kosbud.ua/wp-content/uploads/2023/10/grafit_05-1.jpg,#333534,yes,10,instock,0,GRAFIT
+KLINKERIT MAROKO,variation,KL-MAROKO,KL-HUE1...HUE6,maroko,Other,https://kosbud.ua/wp-content/uploads/2023/10/maroko_06.jpg,#d68b0a,yes,10,instock,0,MAROKO

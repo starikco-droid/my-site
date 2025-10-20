@@ -1,0 +1,370 @@
+// ------------------------------------------------------------------------------------------------
+// HEADER EDITOR FRONTEND
+// ------------------------------------------------------------------------------------------------
+
+@if $page-header-builder-frontend {
+
+	.wd-header-editor {
+		// --wd-main-bgcolor: #333;
+		overflow: unset !important;
+		background: #f9f9f9 !important;
+
+		.xts-btn {
+			outline: none !important;
+			border: none !important;
+			border-radius: var(--xts-option-border-radius) !important;
+		}
+
+		.xts-bordered-btn {
+			border-width: 1px;
+			border-style: solid;
+			border-radius: var(--xts-option-border-radius) !important;
+		}
+
+		.xts-set-item {
+			border-radius: inherit;
+		}
+
+		.whb-icon-button {
+			--btn-padding: 0;
+
+			&:hover {
+				background-color: transparent;
+			}
+		}
+
+		// .wd-dropdown {
+		// 	display: none !important;
+		// }
+
+		#whb-header-builder {
+			--wd-form-brd-width: 1px;
+			--wd-form-bg: #FFF;
+			position: fixed;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			// z-index: 1000;
+			--xts-content-width: 100%;
+			box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+			z-index: 399;
+			font-size: 14px;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		}
+
+		.whb-header-builder {
+			border-radius: 0;
+
+			&.xts-loading {
+				min-height: unset;
+			}
+		}
+		
+		.xts-box-header {
+			display: none
+		}
+
+		&.wd-header-mobile-active {
+
+			.whb-visible-lg {
+				display: none !important;
+			}
+
+			.whb-hidden-lg {
+				display: flex !important;
+			}
+
+			.whb-general-header-inner {
+				--wd-top-bar-h: var(--wd-top-bar-sm-h);
+				--wd-header-general-h: var(--wd-header-general-sm-h);
+				--wd-header-bottom-h: var(--wd-header-bottom-sm-h);
+			}
+
+			.whb-hidden-mobile {
+				display: none;
+			}
+
+			.whb-main-header {
+				max-width: 420px;
+				margin: 0 auto;
+			}
+
+			.wd-page-wrapper {
+				max-width: 420px;
+				margin: 0 auto;
+				border-inline: 1px solid #f4f4f4;
+			}
+
+			.wd-page-content {
+				position: relative;
+				width: calc(100vw - var(--wd-scroll-w) - var(--wd-sticky-nav-w));
+				inset-inline-start: calc(50% - 50vw + var(--wd-scroll-w) / 2 + var(--wd-sticky-nav-w) / 2);
+			}
+
+			// .whb-row {
+
+			// 	> .container {
+			// 		max-width: 420px;
+			// 	}
+			// }
+		}
+
+		// ------------------------------------------
+		// HIDE LINKS
+		// ------------------------------------------
+
+		.whb-header {
+
+			.wd-tools-element,
+			.wd-nav,
+			.site-logo,
+			.wd-social-icons,
+			.wd-info-box,
+			.wd-header-text,
+			.wd-header-html,
+			.wd-button-wrapper {
+
+				a {
+					pointer-events: none;
+					user-select: none;
+				}
+			}
+
+			.wd-search-form {
+
+				.searchsubmit {
+					pointer-events: none;
+					user-select: none;
+				}
+			}
+
+			.wd-search-cat {
+
+				span {
+					pointer-events: none;
+				}
+			}
+		}
+
+		.wd-side-hidden {
+
+			> div {
+				pointer-events: none;
+			}
+		}
+
+		.cart-widget-opener,
+		.woodmart-open-newsletter {
+			cursor: pointer;
+		}
+
+		// ------------------------------------------
+		// CONTENT
+		// ------------------------------------------
+
+		.xts-box-content {
+			display: flex;
+			flex-wrap: wrap;
+			padding: 15px;
+			align-items: center;
+		}
+
+		.whb-element-root,
+		.whb-element-row {
+			margin-bottom: 8px;
+		}
+
+		.whb-element-row {
+
+			> .whb-element-inner {
+
+				> .whb-element-title {
+					margin-bottom: 5px;
+				}
+			}
+
+			> .whb-element-actions {
+
+				.whb-icon-button {
+					// padding-inline-start: 15px;
+					// --btn-padding: 
+
+					&:hover {
+						background-color: #FFF;
+					}
+
+					&:before {
+						padding-top: 3px;
+					}
+				}
+			}
+		}
+
+		.whb-element-column {
+
+			&.whb-empty-column {
+
+				.whb-element-actions {
+
+					button {
+						--btn-bgcolor: transparent;
+					}
+				}
+			}
+
+			&:not(.whb-empty-column) {
+				
+				> .whb-element-actions {
+
+					button {
+						border-radius: 3px 3px 0 0;
+					}
+				}
+			}
+		}
+
+		.whb-drag-source-content_element .whb-element-inner {
+			padding-block: 7px;
+		}
+
+		// ------------------------------------------
+		// TOOLBAR
+		// ------------------------------------------
+
+		.whb-frontend-editor {
+			display: none;
+		}
+
+		.whb-toolbar {
+			order: 1;
+
+			.whb-toolbar-icons {
+				margin-bottom: 0;
+			}
+		}
+		
+		.whb-main-area {
+			width: 100%;
+		}
+
+		.whb-headers-manager.whb-area-mobile {
+
+			.whb-main-area {
+				max-width: 100%;
+			}
+		}
+
+		// ------------------------------------------
+		// NOTICES
+		// ------------------------------------------
+
+		.whb-messages-area {
+			position: absolute;
+			bottom: 100%;
+			left: 15px;
+			right: 15px;
+			// width: auto;
+		}
+
+		// ------------------------------------------
+		// ACTIONS
+		// ------------------------------------------
+
+		.whb-builder-actions {
+			flex-grow: 1;
+
+			.xts-i-export {
+				display: none;
+			}
+		}
+
+		// ------------------------------------------
+		// ELEMENTS
+		// ------------------------------------------
+
+		// .wd-header-cats {
+
+		// 	&:not(:is(.wd-event-hover,.wd-event-click)) {
+
+		// 		&:not(:hover) {
+
+		// 			.wd-dropdown.wd-opened {
+	
+		// 				&:not(:hover) {
+		// 					visibility: hidden;
+		// 					opacity: 0;
+		// 					pointer-events: none;
+		// 				}
+		// 			}
+		// 		}
+		// 	}
+		// }
+
+
+		// ------------------------------------------
+		// HEADER CONTENT
+		// ------------------------------------------
+
+		// .whb-header,
+		// .whb-sticky-header {
+		// 	pointer-events: none !important;
+
+		// 	// a,
+		// 	// .wd-tools-element {
+		// 	// 	pointer-events: none;
+		// 	// }
+		// }
+
+		// ------------------------------------------
+		// OTHER PAGE CONTENT
+		// ------------------------------------------
+
+		.wd-page-wrapper {
+			max-height: 2000px;
+			overflow: hidden;
+		}
+
+		.wd-page-content {
+			pointer-events: none !important;
+			user-select: none;
+
+			// > * {
+			// 	filter: blur(3px);
+			// 	opacity: .1;
+			// }
+
+			* {
+				pointer-events: none !important;
+			}
+
+			// &:after {
+			// 	content: "";
+			// 	position: absolute;
+			// 	inset: 0;
+			// 	background-color: #000;
+			// 	z-index: 1;
+			// 	opacity: .7;
+			// }
+		}
+	}
+
+	.whb-header-builder {
+
+		button {
+			--btn-height: auto;
+			--btn-bgcolor: var(--xts-btn-grey-color);
+			--btn-font-weight: 600;
+			--btn-font-size: 12px;
+			// --btn-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+			text-transform: unset;
+
+			&:hover {
+				background-color: var(--xts-btn-grey-color-hover);
+			}
+
+			&.xts-bordered-btn {
+				background-color: #FFF;
+			}
+		}
+	}
+}

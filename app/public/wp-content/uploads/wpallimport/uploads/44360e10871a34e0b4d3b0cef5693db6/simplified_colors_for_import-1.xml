@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[Фарба KOSBUD]]></name>
+		<type><![CDATA[variable]]></type>
+		<sku><![CDATA[kosbud]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<attributepa_color><![CDATA[]]></attributepa_color>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1123]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1123]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1123]]></attributepa_color>
+		<images><![CDATA[colors/pk-1123.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ebb94c]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1122]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1122]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1122]]></attributepa_color>
+		<images><![CDATA[colors/dk-1122.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eabd60]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1121]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1121]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1121]]></attributepa_color>
+		<images><![CDATA[colors/ck-1121.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#edca79]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1120]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1120]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1120]]></attributepa_color>
+		<images><![CDATA[colors/pk-1120.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#fac74c]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1119]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1119]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1119]]></attributepa_color>
+		<images><![CDATA[colors/dk-1119.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#fec95a]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1118]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1118]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1118]]></attributepa_color>
+		<images><![CDATA[colors/ck-1118.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f2d167]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1117]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1117]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1117]]></attributepa_color>
+		<images><![CDATA[colors/bk-1117.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f4d781]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1116]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1116]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1116]]></attributepa_color>
+		<images><![CDATA[colors/bk-1116.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f0d895]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1115]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1115]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1115]]></attributepa_color>
+		<images><![CDATA[colors/dk-1115.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eacd59]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1114]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1114]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1114]]></attributepa_color>
+		<images><![CDATA[colors/dk-1114.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9d562]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1113]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1113]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1113]]></attributepa_color>
+		<images><![CDATA[colors/ck-1113.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e8d159]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1112]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1112]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1112]]></attributepa_color>
+		<images><![CDATA[colors/bk-1112.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efd97f]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1111]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1111]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1111]]></attributepa_color>
+		<images><![CDATA[colors/bk-1111.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efdc92]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1104]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1104]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1104]]></attributepa_color>
+		<images><![CDATA[colors/bk-1104.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f5de94]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1103]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1103]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1103]]></attributepa_color>
+		<images><![CDATA[colors/ak-1103.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f1dea6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1102]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1102]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1102]]></attributepa_color>
+		<images><![CDATA[colors/ak-1102.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ecdfb3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1101]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1101]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1101]]></attributepa_color>
+		<images><![CDATA[colors/ak-1101.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ebdec8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1110]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1110]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1110]]></attributepa_color>
+		<images><![CDATA[colors/bk-1110.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f5de8e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1109]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1109]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1109]]></attributepa_color>
+		<images><![CDATA[colors/bk-1109.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f1df98]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1108]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1108]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1108]]></attributepa_color>
+		<images><![CDATA[colors/bk-1108.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eedfaa]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1107]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1107]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1107]]></attributepa_color>
+		<images><![CDATA[colors/bk-1107.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ecdfb3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1106]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1106]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1106]]></attributepa_color>
+		<images><![CDATA[colors/ak-1106.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ede2be]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1105]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1105]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1105]]></attributepa_color>
+		<images><![CDATA[colors/bk-1105.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efda77]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1124]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1124]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1124]]></attributepa_color>
+		<images><![CDATA[colors/pk-1124.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e8ae43]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1125]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1125]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1125]]></attributepa_color>
+		<images><![CDATA[colors/pk-1125.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e6a838]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1126]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1126]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1126]]></attributepa_color>
+		<images><![CDATA[colors/ck-1126.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f3bb89]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1127]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1127]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1127]]></attributepa_color>
+		<images><![CDATA[colors/dk-1127.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f2ac72]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1128]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1128]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1128]]></attributepa_color>
+		<images><![CDATA[colors/pk-1128.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f59f5f]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1129]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1129]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1129]]></attributepa_color>
+		<images><![CDATA[colors/pk-1129.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f19452]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1130]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1130]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1130]]></attributepa_color>
+		<images><![CDATA[colors/pk-1130.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ec8e4b]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1131]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1131]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1131]]></attributepa_color>
+		<images><![CDATA[colors/bk-1131.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e4b08a]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1132]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1132]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1132]]></attributepa_color>
+		<images><![CDATA[colors/bk-1132.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#db9a62]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1133]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1133]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1133]]></attributepa_color>
+		<images><![CDATA[colors/dk-1133.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d58d58]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1134]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1134]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1134]]></attributepa_color>
+		<images><![CDATA[colors/dk-1134.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d28650]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1135]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1135]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1135]]></attributepa_color>
+		<images><![CDATA[colors/pk-1135.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#cc7d4c]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1136]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1136]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1136]]></attributepa_color>
+		<images><![CDATA[colors/pk-1136.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e8757e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1137]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1137]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1137]]></attributepa_color>
+		<images><![CDATA[colors/pk-1137.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e56e77]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1138]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1138]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1138]]></attributepa_color>
+		<images><![CDATA[colors/pk-1138.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e25661]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1139]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1139]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1139]]></attributepa_color>
+		<images><![CDATA[colors/pk-1139.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d9424b]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[PK 1140]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[pk-1140]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[PK 1140]]></attributepa_color>
+		<images><![CDATA[colors/pk-1140.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d23544]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1141]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1141]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1141]]></attributepa_color>
+		<images><![CDATA[colors/ak-1141.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c07c6f]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1142]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1142]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1142]]></attributepa_color>
+		<images><![CDATA[colors/bk-1142.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#be796b]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1143]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1143]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1143]]></attributepa_color>
+		<images><![CDATA[colors/bk-1143.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b25f53]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1144]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1144]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1144]]></attributepa_color>
+		<images><![CDATA[colors/ck-1144.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a95348]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1145]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1145]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1145]]></attributepa_color>
+		<images><![CDATA[colors/dk-1145.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9b4b3e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1146]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1146]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1146]]></attributepa_color>
+		<images><![CDATA[colors/ak-1146.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ecdaba]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1147]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1147]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1147]]></attributepa_color>
+		<images><![CDATA[colors/ak-1147.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9d8b7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1148]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1148]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1148]]></attributepa_color>
+		<images><![CDATA[colors/ak-1148.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e6cea4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1149]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1149]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1149]]></attributepa_color>
+		<images><![CDATA[colors/ak-1149.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e5c893]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1150]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1150]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1150]]></attributepa_color>
+		<images><![CDATA[colors/bk-1150.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#dfbf88]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1151]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1151]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1151]]></attributepa_color>
+		<images><![CDATA[colors/ak-1151.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f0e7d4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1152]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1152]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1152]]></attributepa_color>
+		<images><![CDATA[colors/ak-1152.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ebe1cd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1153]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1153]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1153]]></attributepa_color>
+		<images><![CDATA[colors/ak-1153.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eee1c3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1154]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1154]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1154]]></attributepa_color>
+		<images><![CDATA[colors/bk-1154.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ebd8ac]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1155]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1155]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1155]]></attributepa_color>
+		<images><![CDATA[colors/bk-1155.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e7cb92]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1156]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1156]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1156]]></attributepa_color>
+		<images><![CDATA[colors/ak-1156.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e4d5b7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1157]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1157]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1157]]></attributepa_color>
+		<images><![CDATA[colors/ak-1157.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e6d5b1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1158]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1158]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1158]]></attributepa_color>
+		<images><![CDATA[colors/ak-1158.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eed7a6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1160]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1160]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1160]]></attributepa_color>
+		<images><![CDATA[colors/bk-1160.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f0cc8d]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1161]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1161]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1161]]></attributepa_color>
+		<images><![CDATA[colors/ak-1161.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eee4d0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1162]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1162]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1162]]></attributepa_color>
+		<images><![CDATA[colors/ak-1162.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9dec6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1164]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1164]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1164]]></attributepa_color>
+		<images><![CDATA[colors/ak-1164.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eed3a8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1165]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1165]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1165]]></attributepa_color>
+		<images><![CDATA[colors/ak-1165.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eecc99]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1166]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1166]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1166]]></attributepa_color>
+		<images><![CDATA[colors/ak-1166.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efddbd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1167]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1167]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1167]]></attributepa_color>
+		<images><![CDATA[colors/bk-1167.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efd6b0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1168]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1168]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1168]]></attributepa_color>
+		<images><![CDATA[colors/bk-1168.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efcb9d]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1169]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1169]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1169]]></attributepa_color>
+		<images><![CDATA[colors/bk-1169.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eec592]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1170]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1170]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1170]]></attributepa_color>
+		<images><![CDATA[colors/ck-1170.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eabb82]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1171]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1171]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1171]]></attributepa_color>
+		<images><![CDATA[colors/ak-1171.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efe0cd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1172]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1172]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1172]]></attributepa_color>
+		<images><![CDATA[colors/ak-1172.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f0dcc8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1173]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1173]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1173]]></attributepa_color>
+		<images><![CDATA[colors/ak-1173.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f2d8be]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1174]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1174]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1174]]></attributepa_color>
+		<images><![CDATA[colors/ak-1174.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f5ca9b]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1175]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1175]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1175]]></attributepa_color>
+		<images><![CDATA[colors/bk-1175.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f6c192]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1176]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1176]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1176]]></attributepa_color>
+		<images><![CDATA[colors/ak-1176.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f2e9dd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1177]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1177]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1177]]></attributepa_color>
+		<images><![CDATA[colors/ak-1177.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#edddc6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1178]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1178]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1178]]></attributepa_color>
+		<images><![CDATA[colors/bk-1178.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f2d5b2]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1179]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1179]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1179]]></attributepa_color>
+		<images><![CDATA[colors/bk-1179.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f2d1ad]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1180]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1180]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1180]]></attributepa_color>
+		<images><![CDATA[colors/bk-1180.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#f6cca3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1181]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1181]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1181]]></attributepa_color>
+		<images><![CDATA[colors/ak-1181.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eedcc8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1182]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1182]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1182]]></attributepa_color>
+		<images><![CDATA[colors/ak-1182.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ecd5c3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1183]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1183]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1183]]></attributepa_color>
+		<images><![CDATA[colors/ak-1183.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eacfb8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1184]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1184]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1184]]></attributepa_color>
+		<images><![CDATA[colors/ak-1184.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9c5aa]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1185]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1185]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1185]]></attributepa_color>
+		<images><![CDATA[colors/bk-1185.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9bda1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1186]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1186]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1186]]></attributepa_color>
+		<images><![CDATA[colors/ak-1186.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eddcd0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1187]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1187]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1187]]></attributepa_color>
+		<images><![CDATA[colors/ak-1187.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e8cfbf]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1188]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1188]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1188]]></attributepa_color>
+		<images><![CDATA[colors/ak-1188.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9c1aa]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1189]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1189]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1189]]></attributepa_color>
+		<images><![CDATA[colors/ak-1189.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e7b396]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1190]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1190]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1190]]></attributepa_color>
+		<images><![CDATA[colors/ak-1190.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e3ad8f]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1192]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1192]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1192]]></attributepa_color>
+		<images><![CDATA[colors/bk-1192.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#cdd1b0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1193]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1193]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1193]]></attributepa_color>
+		<images><![CDATA[colors/bk-1193.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#bbbe96]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1194]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1194]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1194]]></attributepa_color>
+		<images><![CDATA[colors/bk-1194.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#acb185]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1195]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1195]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1195]]></attributepa_color>
+		<images><![CDATA[colors/ck-1195.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a4a978]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1196]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1196]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1196]]></attributepa_color>
+		<images><![CDATA[colors/ak-1196.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eae6c0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1197]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1197]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1197]]></attributepa_color>
+		<images><![CDATA[colors/bk-1197.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#dcd9ad]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1198]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1198]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1198]]></attributepa_color>
+		<images><![CDATA[colors/bk-1198.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d4d49e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1199]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1199]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1199]]></attributepa_color>
+		<images><![CDATA[colors/ck-1199.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#cbcd8a]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1200]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1200]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1200]]></attributepa_color>
+		<images><![CDATA[colors/dk-1200.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b6c275]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1201]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1201]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1201]]></attributepa_color>
+		<images><![CDATA[colors/ak-1201.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ede8cd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1202]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1202]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1202]]></attributepa_color>
+		<images><![CDATA[colors/ak-1202.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e7e3c1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1203]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1203]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1203]]></attributepa_color>
+		<images><![CDATA[colors/bk-1203.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e3e2b3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1204]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1204]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1204]]></attributepa_color>
+		<images><![CDATA[colors/bk-1204.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e0e4a3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1205]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1205]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1205]]></attributepa_color>
+		<images><![CDATA[colors/ck-1205.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e0e193]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1206]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1206]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1206]]></attributepa_color>
+		<images><![CDATA[colors/ak-1206.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ebe5d2]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1207]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1207]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1207]]></attributepa_color>
+		<images><![CDATA[colors/ak-1207.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e6dfca]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1208]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1208]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1208]]></attributepa_color>
+		<images><![CDATA[colors/ak-1208.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ece1c5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1209]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1209]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1209]]></attributepa_color>
+		<images><![CDATA[colors/ak-1209.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e8dcb6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1210]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1210]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1210]]></attributepa_color>
+		<images><![CDATA[colors/bk-1210.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e7dda7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1213]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1213]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1213]]></attributepa_color>
+		<images><![CDATA[colors/ak-1213.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e4dfce]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1214]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1214]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1214]]></attributepa_color>
+		<images><![CDATA[colors/ak-1214.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e4e0c4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1215]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1215]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1215]]></attributepa_color>
+		<images><![CDATA[colors/bk-1215.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e0dab5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1216]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1216]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1216]]></attributepa_color>
+		<images><![CDATA[colors/ak-1216.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eae8de]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1217]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1217]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1217]]></attributepa_color>
+		<images><![CDATA[colors/ak-1217.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d8d4c5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1218]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1218]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1218]]></attributepa_color>
+		<images><![CDATA[colors/ak-1218.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e4dccb]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1219]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1219]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1219]]></attributepa_color>
+		<images><![CDATA[colors/ak-1219.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c9cab6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1220]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1220]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1220]]></attributepa_color>
+		<images><![CDATA[colors/ak-1220.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b1b296]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1222]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1222]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1222]]></attributepa_color>
+		<images><![CDATA[colors/ak-1222.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e2d8ca]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1223]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1223]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1223]]></attributepa_color>
+		<images><![CDATA[colors/ak-1223.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e6d3c4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1224]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1224]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1224]]></attributepa_color>
+		<images><![CDATA[colors/ak-1224.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e1c7ae]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1226]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1226]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1226]]></attributepa_color>
+		<images><![CDATA[colors/ak-1226.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#eae1d3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1227]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1227]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1227]]></attributepa_color>
+		<images><![CDATA[colors/ak-1227.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e4d8c5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1228]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1228]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1228]]></attributepa_color>
+		<images><![CDATA[colors/ak-1228.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e3d1c1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1229]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1229]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1229]]></attributepa_color>
+		<images><![CDATA[colors/ak-1229.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e0c0a9]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1230]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1230]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1230]]></attributepa_color>
+		<images><![CDATA[colors/ak-1230.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d8b194]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1231]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1231]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1231]]></attributepa_color>
+		<images><![CDATA[colors/bk-1231.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#aa836e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1232]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1232]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1232]]></attributepa_color>
+		<images><![CDATA[colors/bk-1232.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a57d67]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1233]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1233]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1233]]></attributepa_color>
+		<images><![CDATA[colors/ck-1233.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#8c6e53]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1234]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1234]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1234]]></attributepa_color>
+		<images><![CDATA[colors/bk-1234.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#83644c]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1235]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1235]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1235]]></attributepa_color>
+		<images><![CDATA[colors/dk-1235.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#64534d]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1236]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1236]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1236]]></attributepa_color>
+		<images><![CDATA[colors/bk-1236.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#edeae5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1237]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1237]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1237]]></attributepa_color>
+		<images><![CDATA[colors/ak-1237.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c3c4bf]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1238]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1238]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1238]]></attributepa_color>
+		<images><![CDATA[colors/ak-1238.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#bbbbb5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1239]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1239]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1239]]></attributepa_color>
+		<images><![CDATA[colors/ak-1239.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a8aca7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1240]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1240]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1240]]></attributepa_color>
+		<images><![CDATA[colors/ak-1240.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9ea19c]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1242]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1242]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1242]]></attributepa_color>
+		<images><![CDATA[colors/ak-1242.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d3d1cd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1243]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1243]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1243]]></attributepa_color>
+		<images><![CDATA[colors/ak-1243.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c3c4bf]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1244]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1244]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1244]]></attributepa_color>
+		<images><![CDATA[colors/bk-1244.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a9aba9]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1245]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1245]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1245]]></attributepa_color>
+		<images><![CDATA[colors/bk-1245.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#979c9a]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1246]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1246]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1246]]></attributepa_color>
+		<images><![CDATA[colors/ak-1246.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#dcd9d4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1247]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1247]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1247]]></attributepa_color>
+		<images><![CDATA[colors/ak-1247.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d2cec7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1248]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1248]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1248]]></attributepa_color>
+		<images><![CDATA[colors/ak-1248.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c1bdba]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1249]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1249]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1249]]></attributepa_color>
+		<images><![CDATA[colors/ak-1249.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#adaeaa]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1250]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1250]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1250]]></attributepa_color>
+		<images><![CDATA[colors/ak-1250.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9fa09e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1251]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1251]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1251]]></attributepa_color>
+		<images><![CDATA[colors/ak-1251.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ddd5d1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1252]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1252]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1252]]></attributepa_color>
+		<images><![CDATA[colors/ak-1252.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ccc4c0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1253]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1253]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1253]]></attributepa_color>
+		<images><![CDATA[colors/ak-1253.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#bebab7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1254]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1254]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1254]]></attributepa_color>
+		<images><![CDATA[colors/ak-1254.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b5b2b1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1255]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1255]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1255]]></attributepa_color>
+		<images><![CDATA[colors/ak-1255.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9f9d9a]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1256]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1256]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1256]]></attributepa_color>
+		<images><![CDATA[colors/ak-1256.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d7d0cd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1257]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1257]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1257]]></attributepa_color>
+		<images><![CDATA[colors/ak-1257.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d2cac6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1258]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1258]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1258]]></attributepa_color>
+		<images><![CDATA[colors/ak-1258.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c1bdb6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1259]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1259]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1259]]></attributepa_color>
+		<images><![CDATA[colors/ak-1259.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b2aca8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1261]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1261]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1261]]></attributepa_color>
+		<images><![CDATA[colors/ak-1261.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e9e0da]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1262]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1262]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1262]]></attributepa_color>
+		<images><![CDATA[colors/ak-1262.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d3cec3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1263]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1263]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1263]]></attributepa_color>
+		<images><![CDATA[colors/ak-1263.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#cfc4bb]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1264]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1264]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1264]]></attributepa_color>
+		<images><![CDATA[colors/ak-1264.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#bcaea2]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1265]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1265]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1265]]></attributepa_color>
+		<images><![CDATA[colors/ak-1265.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a99b8d]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1266]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1266]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1266]]></attributepa_color>
+		<images><![CDATA[colors/ak-1266.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d7d6d5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1267]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1267]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1267]]></attributepa_color>
+		<images><![CDATA[colors/ak-1267.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c9c6be]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1268]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1268]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1268]]></attributepa_color>
+		<images><![CDATA[colors/ak-1268.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c1bdb6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1269]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1269]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1269]]></attributepa_color>
+		<images><![CDATA[colors/ak-1269.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b1b0a9]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1270]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1270]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1270]]></attributepa_color>
+		<images><![CDATA[colors/ak-1270.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9d9b92]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1271]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1271]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1271]]></attributepa_color>
+		<images><![CDATA[colors/ak-1271.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b0b0b0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1272]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1272]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1272]]></attributepa_color>
+		<images><![CDATA[colors/ak-1272.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#999896]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1273]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1273]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1273]]></attributepa_color>
+		<images><![CDATA[colors/ak-1273.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#888888]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1274]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1274]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1274]]></attributepa_color>
+		<images><![CDATA[colors/ak-1274.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#5e6162]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1275]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1275]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1275]]></attributepa_color>
+		<images><![CDATA[colors/bk-1275.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#5e6162]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1276]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1276]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1276]]></attributepa_color>
+		<images><![CDATA[colors/ck-1276.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9c7e5f]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1277]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1277]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1277]]></attributepa_color>
+		<images><![CDATA[colors/bk-1277.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#917267]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1278]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1278]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1278]]></attributepa_color>
+		<images><![CDATA[colors/bk-1278.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#87685a]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[DK 1279]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[dk-1279]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[DK 1279]]></attributepa_color>
+		<images><![CDATA[colors/dk-1279.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#7a5c4f]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1280]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1280]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1280]]></attributepa_color>
+		<images><![CDATA[colors/bk-1280.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#664f45]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1281]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1281]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1281]]></attributepa_color>
+		<images><![CDATA[colors/ak-1281.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e6ded0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1282]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1282]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1282]]></attributepa_color>
+		<images><![CDATA[colors/ak-1282.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e2d9c7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1283]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1283]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1283]]></attributepa_color>
+		<images><![CDATA[colors/ak-1283.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e7d0bd]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1284]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1284]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1284]]></attributepa_color>
+		<images><![CDATA[colors/ak-1284.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#ddc1a8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1285]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1285]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1285]]></attributepa_color>
+		<images><![CDATA[colors/ak-1285.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#caae94]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1286]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1286]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1286]]></attributepa_color>
+		<images><![CDATA[colors/ak-1286.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e8dacf]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1287]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1287]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1287]]></attributepa_color>
+		<images><![CDATA[colors/ak-1287.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e3d4c8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1288]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1288]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1288]]></attributepa_color>
+		<images><![CDATA[colors/ak-1288.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d8c6b6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1289]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1289]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1289]]></attributepa_color>
+		<images><![CDATA[colors/ak-1289.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c7b2a2]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1290]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1290]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1290]]></attributepa_color>
+		<images><![CDATA[colors/ak-1290.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b49f8d]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1291]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1291]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1291]]></attributepa_color>
+		<images><![CDATA[colors/ak-1291.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e5d7cc]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1292]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1292]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1292]]></attributepa_color>
+		<images><![CDATA[colors/ak-1292.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#efdfd7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1293]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1293]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1293]]></attributepa_color>
+		<images><![CDATA[colors/ak-1293.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d8c9c0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1294]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1294]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1294]]></attributepa_color>
+		<images><![CDATA[colors/ak-1294.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#cdb3aa]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1295]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1295]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1295]]></attributepa_color>
+		<images><![CDATA[colors/ak-1295.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b39b90]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1296]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1296]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1296]]></attributepa_color>
+		<images><![CDATA[colors/ak-1296.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#e5d3cb]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1297]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1297]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1297]]></attributepa_color>
+		<images><![CDATA[colors/ak-1297.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#decac3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1298]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1298]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1298]]></attributepa_color>
+		<images><![CDATA[colors/ak-1298.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#dbc0b7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1299]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1299]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1299]]></attributepa_color>
+		<images><![CDATA[colors/ak-1299.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c8aa9e]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1300]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1300]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1300]]></attributepa_color>
+		<images><![CDATA[colors/ak-1300.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b39489]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1301]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1301]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1301]]></attributepa_color>
+		<images><![CDATA[colors/ak-1301.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d5cfd5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1302]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1302]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1302]]></attributepa_color>
+		<images><![CDATA[colors/ak-1302.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b8b7bf]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1303]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1303]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1303]]></attributepa_color>
+		<images><![CDATA[colors/ak-1303.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a8aab7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1304]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1304]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1304]]></attributepa_color>
+		<images><![CDATA[colors/ak-1304.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#9c9ca8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1305]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1305]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1305]]></attributepa_color>
+		<images><![CDATA[colors/ak-1305.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#828593]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1306]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1306]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1306]]></attributepa_color>
+		<images><![CDATA[colors/ak-1306.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d1dcd9]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1307]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1307]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1307]]></attributepa_color>
+		<images><![CDATA[colors/bk-1307.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c4d1ce]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1308]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1308]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1308]]></attributepa_color>
+		<images><![CDATA[colors/bk-1308.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b4c7c8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1309]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1309]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1309]]></attributepa_color>
+		<images><![CDATA[colors/bk-1309.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a8c0c0]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[CK 1310]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ck-1310]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[CK 1310]]></attributepa_color>
+		<images><![CDATA[colors/ck-1310.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a1bdc1]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1311]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1311]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1311]]></attributepa_color>
+		<images><![CDATA[colors/ak-1311.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#d5dbd5]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1312]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1312]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1312]]></attributepa_color>
+		<images><![CDATA[colors/ak-1312.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c3cec7]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1313]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1313]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1313]]></attributepa_color>
+		<images><![CDATA[colors/ak-1313.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#b9cac4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1314]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1314]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1314]]></attributepa_color>
+		<images><![CDATA[colors/ak-1314.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#aabcb8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[BK 1315]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[bk-1315]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[BK 1315]]></attributepa_color>
+		<images><![CDATA[colors/bk-1315.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#98b0aa]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1316]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1316]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1316]]></attributepa_color>
+		<images><![CDATA[colors/ak-1316.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#bcd6d8]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1317]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1317]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1317]]></attributepa_color>
+		<images><![CDATA[colors/ak-1317.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#accccf]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1318]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1318]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1318]]></attributepa_color>
+		<images><![CDATA[colors/ak-1318.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#a6c6c9]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1319]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1319]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1319]]></attributepa_color>
+		<images><![CDATA[colors/ak-1319.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#94bdc4]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1320]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1320]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1320]]></attributepa_color>
+		<images><![CDATA[colors/ak-1320.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#7cadba]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1321]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1321]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1321]]></attributepa_color>
+		<images><![CDATA[colors/ak-1321.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#c2d5d6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1322]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1322]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1322]]></attributepa_color>
+		<images><![CDATA[colors/ak-1322.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#bdd2d3]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1323]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1323]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1323]]></attributepa_color>
+		<images><![CDATA[colors/ak-1323.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#96c8da]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1324]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1324]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1324]]></attributepa_color>
+		<images><![CDATA[colors/ak-1324.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#65b8d6]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[AK 1325]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ak-1325]]></sku>
+		<parentsku><![CDATA[kosbud]]></parentsku>
+		<attributepa_color><![CDATA[AK 1325]]></attributepa_color>
+		<images><![CDATA[colors/ak-1325.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#52aad3]]></_woodmart_swatch_color>
+	</node>
+</data>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[STONEHENGE ïàë³òðà EX]]></name>
+		<type><![CDATA[variable]]></type>
+		<sku><![CDATA[ST-SH1...SH10]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<attributepa_color><![CDATA[]]></attributepa_color>
+		<attributepa_series><![CDATA[]]></attributepa_series>
+		<images><![CDATA[]]></images>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-01]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH01]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-01]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-01.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-02]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH02]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-02]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-02.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-03]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH03]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-03]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-03.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-04]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH04]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-04]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-04.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-05]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH05]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-05]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-05.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-06]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH06]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-06]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-06.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-07]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH07]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-07]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-07.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-08]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH08]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-08]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-08.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-09]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH09]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-09]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-09.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+	<node>
+		<name><![CDATA[STONEHENGE SH-10]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-SH10]]></sku>
+		<parentsku><![CDATA[ST-SH1...SH10]]></parentsku>
+		<attributepa_color><![CDATA[SH-10]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[https://kosbud.ua/wp-content/uploads/2022/01/sh-10.png]]></images>
+		<_woodmart_swatch_color><![CDATA[#000000]]></_woodmart_swatch_color>
+	</node>
+</data>

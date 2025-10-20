@@ -1,0 +1,8 @@
+Name,Type,SKU,Parent SKU,Attribute:pa_color,Attribute:pa_series,Images,_woodmart_swatch_color,Manage stock,Stock quantity,Stock status,Regular price,Category
+TABULO_Декоративні_ламелі,variable,TABULO-LAMELI,,,,,,,,instock,,
+STONEHENGE НАТУРАЛЬНИЙ-ДУБ,variation,ST-НАТУРАЛЬНИЙ-ДУБ,TABULO-LAMELI,натуральний-дуб,Other,https://kosbud.ua/wp-content/uploads/2024/06/lamel-naturalnij-dub.jpg,#000000,yes,10,instock,0,Натуральний дуб
+STONEHENGE ЗОЛОТИЙ-ДУБ,variation,ST-ЗОЛОТИЙ-ДУБ,TABULO-LAMELI,золотий-дуб,Other,https://kosbud.ua/wp-content/uploads/2024/06/lamel-zolotij-dub-1.jpg,#000000,yes,10,instock,0,Золотий дуб
+STONEHENGE ВІНЧЕСТЕР,variation,ST-ВІНЧЕСТЕР,TABULO-LAMELI,вінчестер,Other,https://kosbud.ua/wp-content/uploads/2024/06/lamel-vinchester-1.jpg,#000000,yes,10,instock,0,Вінчестер
+STONEHENGE ТЕМНИЙ-ГОРІХ,variation,ST-ТЕМНИЙ-ГОРІХ,TABULO-LAMELI,темний-горіх,Other,https://kosbud.ua/wp-content/uploads/2024/06/lamel-temnij-gorih-1.jpg,#000000,yes,10,instock,0,Темний горіх
+STONEHENGE ВЕНГЕ,variation,ST-ВЕНГЕ,TABULO-LAMELI,венге,Other,https://kosbud.ua/wp-content/uploads/2024/06/lamel-venge.jpg,#000000,yes,10,instock,0,Венге
+STONEHENGE ГРАФІТ,variation,ST-ГРАФІТ,TABULO-LAMELI,графіт,Other,https://kosbud.ua/wp-content/uploads/2024/06/lamel-grafit.jpg,#000000,yes,10,instock,0,Графіт

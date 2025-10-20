@@ -1,0 +1,60 @@
+# Copyright (C) 2024 bPlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Timeline Block 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/timeline-block-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-20T07:17:39+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: timeline-block\n"
+
+#. Plugin Name of the plugin
+#: D:\Ampps\www\tanin-plugins\wp-content\plugins\timeline-block-block\plugin.php
+msgid "Timeline Block"
+msgstr ""
+
+#. Description of the plugin
+#: D:\Ampps\www\tanin-plugins\wp-content\plugins\timeline-block-block\plugin.php
+msgid "Display timeline content on your site."
+msgstr ""
+
+#. Author of the plugin
+#: D:\Ampps\www\tanin-plugins\wp-content\plugins\timeline-block-block\plugin.php
+msgid "bPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\Ampps\www\tanin-plugins\wp-content\plugins\timeline-block-block\plugin.php
+msgid "https://bplugins.com"
+msgstr ""
+
+#: build/block.json
+msgctxt "block title"
+msgid "B Timeline Block"
+msgstr ""
+
+#: build/block.json
+msgctxt "block description"
+msgid "Show your story or Memories on the web."
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "b-timeline"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "timeline"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "timeline-block"
+msgstr ""

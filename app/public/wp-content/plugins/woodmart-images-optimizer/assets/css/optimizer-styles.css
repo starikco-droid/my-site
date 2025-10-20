@@ -1,0 +1,271 @@
+/**
+ * WoodMart Images Optimizer Styles
+ * Enhanced UI styles for the image optimization interface
+ */
+
+/* Button Base Styles */
+.xts-optimizer-button,
+.xts-restore-button {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 2px;
+    font-size: 12px;
+    line-height: 1.4;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background: #f7f7f7;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    min-width: 80px;
+    text-align: center;
+}
+
+.xts-optimizer-button:hover,
+.xts-restore-button:hover {
+    background: #fafafa;
+    border-color: #999;
+    color: #23282d;
+}
+
+.xts-optimizer-button:disabled,
+.xts-restore-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Success States */
+.xts-optimizer-button.optimization-success {
+    background: #46b450;
+    border-color: #46b450;
+    color: #fff;
+}
+
+.xts-restore-button.restore-success {
+    background: #00a0d2;
+    border-color: #00a0d2;
+    color: #fff;
+}
+
+/* Completed State - Permanently disabled */
+.xts-optimizer-button.optimization-completed {
+    background: #46b450;
+    border-color: #46b450;
+    color: #fff;
+    opacity: 1;
+    cursor: default;
+    position: relative;
+    padding-left: 24px; /* Make room for checkmark */
+}
+
+.xts-optimizer-button.optimization-completed::before {
+    content: '✓';
+    position: absolute;
+    left: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.xts-optimizer-button.optimization-completed:hover {
+    background: #46b450;
+    border-color: #46b450;
+    color: #fff;
+}
+
+/* Error States */
+.xts-optimizer-button.optimization-error,
+.xts-restore-button.restore-error {
+    background: #dc3232;
+    border-color: #dc3232;
+    color: #fff;
+}
+
+/* Loading Animation */
+.xts-optimizer-button:disabled,
+.xts-restore-button:disabled,
+.xts-optimizer-button.processing,
+.xts-restore-button.processing {
+    position: relative;
+}
+
+.xts-optimizer-button:disabled::after,
+.xts-restore-button:disabled::after,
+.xts-optimizer-button.processing::after,
+.xts-restore-button.processing::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 8px;
+    transform: translateY(-50%);
+    width: 12px;
+    height: 12px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-top: 2px solid #fff;
+    border-radius: 50%;
+    animation: optimizer-spin 1s linear infinite;
+}
+
+/* Processing state styling */
+.xts-optimizer-button.processing,
+.xts-restore-button.processing {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+@keyframes optimizer-spin {
+    0% { transform: translateY(-50%) rotate(0deg); }
+    100% { transform: translateY(-50%) rotate(360deg); }
+}
+
+/* Column Layout */
+.column-xts_optimizer {
+    width: 150px;
+}
+
+.xts-optimizer-status {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+}
+
+.xts-optimizer-meta {
+    font-size: 11px;
+    color: #666;
+    margin-top: 2px;
+}
+
+.xts-optimizer-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+}
+
+.xts-optimization-info {
+    margin-bottom: 5px;
+    font-size: 11px;
+}
+
+/* Bulk Progress Styling */
+#bulk-progress-bar {
+    background: #e0e0e0;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 0;
+    position: relative;
+}
+
+#bulk-progress-bar div {
+    background: linear-gradient(90deg, #0073aa, #00a0d2);
+    height: 100%;
+    transition: width 0.3s ease;
+    border-radius: 10px;
+    position: relative;
+}
+
+#bulk-progress-bar div::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        transparent
+    );
+    animation: bulk-progress-shine 2s ease-in-out infinite;
+}
+
+@keyframes bulk-progress-shine {
+    0% { transform: translateX(-100%); }
+    50% { transform: translateX(100%); }
+    100% { transform: translateX(100%); }
+}
+
+/* Error Messages */
+.xts-optimizer-error {
+    color: #dc3232;
+    font-size: 11px;
+    font-style: italic;
+}
+
+.xts-optimizer-message {
+    font-size: 11px;
+    margin-top: 2px;
+    padding: 2px 4px;
+    border-radius: 2px;
+}
+
+.xts-optimizer-message.success {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.xts-optimizer-message.error {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+/* Tooltips Enhancement */
+[title] {
+    position: relative;
+}
+
+/* Responsive Design */
+@media (max-width: 782px) {
+    .column-xts_optimizer {
+        width: 100%;
+    }
+    
+    .xts-optimizer-button,
+    .xts-restore-button {
+        width: 100%;
+        margin: 2px 0;
+    }
+}
+
+/* Accessibility Improvements */
+.xts-optimizer-button:focus,
+.xts-restore-button:focus {
+    outline: 2px solid #0073aa;
+    outline-offset: 2px;
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+    .xts-optimizer-button.optimization-success {
+        background: #006400;
+        border-color: #006400;
+    }
+    
+    .xts-optimizer-button.optimization-error,
+    .xts-restore-button.restore-error {
+        background: #8b0000;
+        border-color: #8b0000;
+    }
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+    .xts-optimizer-button,
+    .xts-restore-button,
+    #bulk-progress-bar div {
+        transition: none;
+    }
+    
+    .xts-optimizer-button:disabled::after,
+    .xts-restore-button:disabled::after,
+    #bulk-progress-bar div::after {
+        animation: none;
+    }
+} 

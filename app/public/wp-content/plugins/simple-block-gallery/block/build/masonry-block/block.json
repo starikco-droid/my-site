@@ -1,0 +1,58 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "simple-block-gallery/masonry-block",
+  "title": "Masonry Block",
+  "parent": [
+    "simple-block-gallery/sbg-parent-block"
+  ],
+  "icon": "tagcloud",
+  "description": "Generate the masonry gallery.",
+  "version": "1.2.9",
+  "textdomain": "simple-block-gallery",
+  "attributes": {
+    "list_images": {
+      "type": "string",
+      "source": "html"
+    },
+    "image": {
+      "type": "array"
+    },
+    "images_ids": {
+      "type": "array"
+    },
+    "width": {
+      "type": "number",
+      "default": 120
+    },
+    "padding": {
+      "type": "number",
+      "default": 1
+    },
+    "r_images": {
+      "type": "number",
+      "default": 0
+    },
+    "link": {
+      "type": "boolean",
+      "default": false
+    },
+    "preview": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "supports": {
+    "customClassName": false,
+    "className": false,
+    "html": false
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

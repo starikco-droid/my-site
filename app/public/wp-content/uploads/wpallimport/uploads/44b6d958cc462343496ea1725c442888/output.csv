@@ -1,0 +1,10 @@
+Name,Type,SKU,Parent SKU,Attribute:pa_color,Attribute:pa_series,Images,_woodmart_swatch_color,Manage stock,Stock quantity,Stock status,Regular price,Category
+TABULO_Декоративні_ламелі,variable,TABULO-LAMELI,,,,,,,,instock,,
+STONEHENGE ПЕРЛИНА-БАЛТИКИ,variation,ST-ПЕРЛИНА-БАЛТИКИ,TABULO-LAMELI,перлина-балтики,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-Perła-Bałtyku-struktura-z-fugą-gotowe.png,#000000,yes,10,instock,0,Перлина Балтики
+STONEHENGE СВІТЛИЙ-ДУБ,variation,ST-СВІТЛИЙ-ДУБ,TABULO-LAMELI,світлий-дуб,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/Jasny-Dąb-korekta-łączeń-i-kolorów.png,#000000,yes,10,instock,0,Світлий дуб
+STONEHENGE ЗОЛОТИЙ-ДУБ,variation,ST-ЗОЛОТИЙ-ДУБ,TABULO-LAMELI,золотий-дуб,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-złoty-dąb-bez-korekty-kolorów-gotowe.png,#000000,yes,10,instock,0,Золотий дуб
+STONEHENGE ВІНЧЕСТЕР,variation,ST-ВІНЧЕСТЕР,TABULO-LAMELI,вінчестер,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-Winchester-gotowe.png,#000000,yes,10,instock,0,Вінчестер
+STONEHENGE ТЕМНИЙ-ГОРІХ,variation,ST-ТЕМНИЙ-ГОРІХ,TABULO-LAMELI,темний-горіх,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-Ciemny-Orzech-z-fugą.png,#000000,yes,10,instock,0,Темний горіх
+STONEHENGE ЧЕРВОНЕ-ДЕРЕВО,variation,ST-ЧЕРВОНЕ-ДЕРЕВО,TABULO-LAMELI,червоне-дерево,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-Mahoń-korekta-koloru-z-fugą-3-wybrane.png,#000000,yes,10,instock,0,Червоне дерево
+STONEHENGE ГРАФІТ,variation,ST-ГРАФІТ,TABULO-LAMELI,графіт,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-Grafit-GOTOWY-kolor-z-fugą.png,#000000,yes,10,instock,0,Графіт
+STONEHENGE ВЕНГЕ,variation,ST-ВЕНГЕ,TABULO-LAMELI,венге,Other,https://kosbud.com.pl/wp-content/uploads/2019/10/struktury-Venge-z-fugą-gotowa.png,#000000,yes,10,instock,0,Венге

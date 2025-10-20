@@ -1,0 +1,7 @@
+Name,Type,SKU,Parent SKU,Attribute:pa_color,Attribute:pa_series,Images,_woodmart_swatch_color,Manage stock,Stock quantity,Stock status,Regular price,Category
+Клей для дошки Tabulo TERMOLEP-D,variable,Tabulo TERMOLEP-D,,,,,,,,instock,,
+Tabulo TERMOLEP-D БІЛИЙ,variation,ST-БІЛИЙ,Tabulo TERMOLEP-D,білий,Other,,#ddd9cd,yes,10,instock,0,БІЛИЙ
+Tabulo TERMOLEP-D-ДУБ,variation,ST-СВІТЛИЙ-ДУБ,Tabulo TERMOLEP-D,світлий-дуб,Other,,#b38963,yes,10,instock,0,СВІТЛИЙ ДУБ
+Tabulo TERMOLEP-D КОРИЧНЕВИЙ,variation,ST-КОРИЧНЕВИЙ,Tabulo TERMOLEP-D,коричневий,Other,,#3a1c14,yes,10,instock,0,КОРИЧНЕВИЙ
+Tabulo TERMOLEP-D ГРАФІТОВИЙ,variation,ST-ГРАФІТОВИЙ,Tabulo TERMOLEP-D,графітовий,Other,,#50575f,yes,10,instock,0,ГРАФІТОВИЙ
+Tabulo TERMOLEP-D ВЕНГЕ,variation,ST-ВЕНГЕ,Tabulo TERMOLEP-D,венге,Other,,#2a2a2a,yes,10,instock,0,ВЕНГЕ

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[Клей для дошки Tabulo TERMOLEP-D]]></name>
+		<type><![CDATA[variable]]></type>
+		<sku><![CDATA[Tabulo TERMOLEP-D]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<attributepa_color><![CDATA[]]></attributepa_color>
+		<attributepa_series><![CDATA[]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[]]></_woodmart_swatch_color>
+		<managestock><![CDATA[]]></managestock>
+		<stockquantity><![CDATA[]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[]]></regularprice>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Tabulo TERMOLEP-D БІЛИЙ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-БІЛИЙ]]></sku>
+		<parentsku><![CDATA[Tabulo TERMOLEP-D]]></parentsku>
+		<attributepa_color><![CDATA[білий]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[#ddd9cd]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[БІЛИЙ]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Tabulo TERMOLEP-D-ДУБ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-СВІТЛИЙ-ДУБ]]></sku>
+		<parentsku><![CDATA[Tabulo TERMOLEP-D]]></parentsku>
+		<attributepa_color><![CDATA[світлий-дуб]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[#b38963]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[СВІТЛИЙ ДУБ]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Tabulo TERMOLEP-D КОРИЧНЕВИЙ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-КОРИЧНЕВИЙ]]></sku>
+		<parentsku><![CDATA[Tabulo TERMOLEP-D]]></parentsku>
+		<attributepa_color><![CDATA[коричневий]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[#3a1c14]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[КОРИЧНЕВИЙ]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Tabulo TERMOLEP-D ГРАФІТОВИЙ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ГРАФІТОВИЙ]]></sku>
+		<parentsku><![CDATA[Tabulo TERMOLEP-D]]></parentsku>
+		<attributepa_color><![CDATA[графітовий]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[#50575f]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[ГРАФІТОВИЙ]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Tabulo TERMOLEP-D ВЕНГЕ]]></name>
+		<type><![CDATA[variation]]></type>
+		<sku><![CDATA[ST-ВЕНГЕ]]></sku>
+		<parentsku><![CDATA[Tabulo TERMOLEP-D]]></parentsku>
+		<attributepa_color><![CDATA[венге]]></attributepa_color>
+		<attributepa_series><![CDATA[Other]]></attributepa_series>
+		<images><![CDATA[]]></images>
+		<_woodmart_swatch_color><![CDATA[#2a2a2a]]></_woodmart_swatch_color>
+		<managestock><![CDATA[yes]]></managestock>
+		<stockquantity><![CDATA[10]]></stockquantity>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<regularprice><![CDATA[0]]></regularprice>
+		<category><![CDATA[ВЕНГЕ]]></category>
+	</node>
+</data>
